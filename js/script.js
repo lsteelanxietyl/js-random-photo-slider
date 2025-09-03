@@ -33,7 +33,7 @@ const right = document.getElementById("arrow-right");
 
 for (let x = 1; x < 101; x++) {
   let img = document.createElement("img");
-  img.setAttribute("src", `https://picsum.photos/seed/${x}/768/432F`);
+  img.setAttribute("src", `https://picsum.photos/seed/${x}/768/432`);
   if (x > 2) {
     img.setAttribute("loading", "lazy");
   }
