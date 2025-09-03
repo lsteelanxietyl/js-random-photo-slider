@@ -4,7 +4,7 @@ A simple **responsive image slider** built with **HTML, CSS, and JavaScript**.
 Photos are loaded from [Lorem Picsum](https://picsum.photos).
 
 ## 🚀 Demo
-👉 [View Live](https://YOUR_GITHUB_NAME.github.io/js-random-photo-slider/)
+👉 [View Live](https://lsteelanxietyl.github.io/js-random-photo-slider/)
 
 ## ✨ Features
 - Responsive design (works on different screen sizes)  
